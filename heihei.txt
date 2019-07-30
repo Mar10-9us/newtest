@@ -1,1 +1,2 @@
 Hei dette er commit test
+Fra GitHub Editor
